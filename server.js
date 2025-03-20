@@ -42,7 +42,7 @@ function MemoryStore(line){
   
 
 
-fs.writeFile('conversation.txt', "Pretend you are a horny girl seducing the User: ", (err) => {
+fs.writeFile('conversation.txt', "Pretend you are a chatbot helping the User: ", (err) => {
     if (err) {
       console.error(err);
       return;
