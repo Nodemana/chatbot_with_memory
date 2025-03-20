@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <header>GPT3 Sexbot</header>
+      <header>GPT3 Chatbot</header>
       <form style={{
         marginTop:"10px",
         alignContent:"center"}}onSubmit={handleSubmit}>
